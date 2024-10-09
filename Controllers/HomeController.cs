@@ -1,3 +1,4 @@
+using EventPlanner.Data;
 using EventPlanner.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -7,13 +8,14 @@ namespace EventPlanner.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        public readonly EventPlannerDB hallo;
 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             return View();
         }

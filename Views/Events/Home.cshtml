@@ -1,0 +1,95 @@
+﻿<!--Enviroment for participant to view all available events. Book Ticket isn't working yet, nor a counter-->
+@model IEnumerable<EventPlanner.Models.Event>
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Event Overview</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date & Time</th>
+            <th>Category</th>
+            <th>Max Participants</th>
+            <th>Price per Person</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var eventItem in Model.OrderBy(e => e.TimeDate))
+        {
+            <tr class="clickable-row" data-id="@eventItem.Id"
+                data-name="@eventItem.Name" data-timedate="@eventItem.TimeDate.ToString("dd-MM-yyyy HH:mm")"
+                data-category="@eventItem.Category" data-participants="@eventItem.MaxParticipants"
+                data-pricepp="@eventItem.PricePP" data-description="@eventItem.Description">
+                <!-- Updated data attributes -->
+                <td>@eventItem.Name</td>
+                <td>@eventItem.TimeDate.ToString("dd-MM-yyyy HH:mm")</td>
+                <td>@eventItem.Category</td>
+                <td>@eventItem.MaxParticipants</td>
+                <td>@eventItem.PricePP.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal popup for event details -->
+<div class="modal fade" id="eventModal" tabindex="-1" role="dialog" aria-labelledby="eventModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="eventModalLabel">Event Details</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h4 id="modalEventName"></h4>
+                <p><strong>Date & Time:</strong> <span id="modalEventDateTime"></span></p>
+                <p><strong>Category:</strong> <span id="modalEventCategory"></span></p>
+                <p><strong>Max Participants:</strong> <span id="modalEventParticipants"></span></p>
+                <p><strong>Price per Person:</strong> <span id="modalEventPricePP"></span></p>
+                <p><strong>Description:</strong> <span id="modalEventDescription"></span></p>
+            </div>
+            <div class="modal-footer">
+                <form asp-action="ReserveTicket" method="post">
+                    <input type="hidden" id="eventId" name="eventId" value="" />
+                    <button type="submit" class="btn btn-primary">Book Ticket</button>
+                </form>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // On row click, populate the modal with event details
+            $('.clickable-row').on('click', function () {
+                var id = $(this).data('id');
+                var name = $(this).data('name');
+                var timedate = $(this).data('timedate');
+                var category = $(this).data('category');
+                var participants = $(this).data('participants');
+                var pricepp = $(this).data('pricepp');
+                var description = $(this).data('description');
+
+                // Set modal fields
+                $('#modalEventName').text(name);
+                $('#modalEventDateTime').text(timedate);
+                $('#modalEventCategory').text(category);
+                $('#modalEventParticipants').text(participants);
+                $('#modalEventPricePP').text(pricepp);
+                $('#modalEventDescription').text(description);
+
+                // Set the hidden field for the event ID
+                $('#eventId').val(id);
+
+                // Show the modal
+                $('#eventModal').modal('show');
+            });
+        });
+    </script>
+}

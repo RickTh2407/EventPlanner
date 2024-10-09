@@ -10,29 +10,22 @@ using EventPlanner.Models;
 
 namespace EventPlanner.Controllers
 {
-    public class EventsController : Controller
+    public class TicketsController : Controller
     {
         private readonly EventPlannerDB _context;
 
-        public EventsController(EventPlannerDB context)
+        public TicketsController(EventPlannerDB context)
         {
             _context = context;
         }
 
-        // GET: Events
+        // GET: Tickets
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Event.ToListAsync());
-
+            return View(await _context.Ticket.ToListAsync());
         }
 
-        //GET: Events/Home/5
-        public async Task<IActionResult> Home()
-        {
-            return View(await _context.Event.ToListAsync());
-        }
-
-        // GET: Events/Details/5
+        // GET: Tickets/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -40,39 +33,39 @@ namespace EventPlanner.Controllers
                 return NotFound();
             }
 
-            var @event = await _context.Event
+            var ticket = await _context.Ticket
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (@event == null)
+            if (ticket == null)
             {
                 return NotFound();
             }
 
-            return View(@event);
+            return View(ticket);
         }
 
-        // GET: Events/Create
+        // GET: Tickets/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Events/Create
+        // POST: Tickets/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Category,TimeDate,PricePP,MaxParticipants,ParticipantCount")] Event @event)
+        public async Task<IActionResult> Create([Bind("Id,EventId,ParticipantId,Payed")] Ticket ticket)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(@event);
+                _context.Add(ticket);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(@event);
+            return View(ticket);
         }
 
-        // GET: Events/Edit/5
+        // GET: Tickets/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -80,22 +73,22 @@ namespace EventPlanner.Controllers
                 return NotFound();
             }
 
-            var @event = await _context.Event.FindAsync(id);
-            if (@event == null)
+            var ticket = await _context.Ticket.FindAsync(id);
+            if (ticket == null)
             {
                 return NotFound();
             }
-            return View(@event);
+            return View(ticket);
         }
 
-        // POST: Events/Edit/5
+        // POST: Tickets/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Category,TimeDate,PricePP,MaxParticipants,ParticipantCount")] Event @event)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,EventId,ParticipantId,Payed")] Ticket ticket)
         {
-            if (id != @event.Id)
+            if (id != ticket.Id)
             {
                 return NotFound();
             }
@@ -104,12 +97,12 @@ namespace EventPlanner.Controllers
             {
                 try
                 {
-                    _context.Update(@event);
+                    _context.Update(ticket);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!EventExists(@event.Id))
+                    if (!TicketExists(ticket.Id))
                     {
                         return NotFound();
                     }
@@ -120,10 +113,10 @@ namespace EventPlanner.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(@event);
+            return View(ticket);
         }
 
-        // GET: Events/Delete/5
+        // GET: Tickets/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -131,34 +124,34 @@ namespace EventPlanner.Controllers
                 return NotFound();
             }
 
-            var @event = await _context.Event
+            var ticket = await _context.Ticket
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (@event == null)
+            if (ticket == null)
             {
                 return NotFound();
             }
 
-            return View(@event);
+            return View(ticket);
         }
 
-        // POST: Events/Delete/5
+        // POST: Tickets/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var @event = await _context.Event.FindAsync(id);
-            if (@event != null)
+            var ticket = await _context.Ticket.FindAsync(id);
+            if (ticket != null)
             {
-                _context.Event.Remove(@event);
+                _context.Ticket.Remove(ticket);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool EventExists(int id)
+        private bool TicketExists(int id)
         {
-            return _context.Event.Any(e => e.Id == id);
+            return _context.Ticket.Any(e => e.Id == id);
         }
     }
 }

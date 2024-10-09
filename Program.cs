@@ -1,3 +1,5 @@
+using EventPlanner.Data;
+
 namespace EventPlanner
 {
     public class Program
@@ -5,9 +7,11 @@ namespace EventPlanner
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+          
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<EventPlannerDB>();
 
             var app = builder.Build();
 
