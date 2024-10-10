@@ -12,15 +12,18 @@
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" readonly />
+            </div>
             <div class="form-group">
                 <label asp-for="EventId" class="control-label"></label>
-                <input asp-for="EventId" class="form-control" />
+                <input asp-for="EventId" class="form-control" readonly />
                 <span asp-validation-for="EventId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ParticipantId" class="control-label"></label>
-                <input asp-for="ParticipantId" class="form-control" />
+                <input asp-for="ParticipantId" class="form-control" readonly />
                 <span asp-validation-for="ParticipantId" class="text-danger"></span>
             </div>
             <div class="form-group form-check">

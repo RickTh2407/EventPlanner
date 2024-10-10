@@ -18,5 +18,86 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #141414;
+}
+
+header {
+    color: #ffffff;
+}
+
+tr {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+h4 {
+    color: #ffffff;
+}
+
+h4 {
+    color: #ffffff;
+}
+
+h5 {
+    color: #ffffff;
+}
+
+h6 {
+    color: #ffffff;
+}
+
+label {
+    color: #ffffff
+}
+
+dt {
+    color: #ffffff
+}
+
+dd {
+    color: #ffffff
+}
+
+.modal-content {
+    background-color: #141414;
+    color: #ffffff;
+}
+
+.modal-header {
+    border-bottom: 1px solid #ffffff;
+}
+
+.modal-footer {
+    border-top: 1px solid #ffffff;
+}
+
+modal-header .close {
+    color: #ffffff; /* White color for the X */
+    opacity: 1; /* Full opacity for visibility */
+}
+
+.modal-header .close:hover {
+    color: #e6e6e6; /* Slightly lighter color on hover */
+}
+
+input, select, textarea {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 1px solid #ffffff;
 }

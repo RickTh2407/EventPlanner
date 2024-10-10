@@ -28,7 +28,7 @@
                 <td>@eventItem.TimeDate.ToString("dd-MM-yyyy HH:mm")</td>
                 <td>@eventItem.Category</td>
                 <td>@eventItem.MaxParticipants</td>
-                <td>@eventItem.PricePP.ToString("C")</td>
+                <td>@eventItem.PricePP.ToString("F2")</td>
             </tr>
         }
     </tbody>
@@ -53,7 +53,7 @@
                 <p><strong>Description:</strong> <span id="modalEventDescription"></span></p>
             </div>
             <div class="modal-footer">
-                <form asp-action="ReserveTicket" method="post">
+                <form asp-action="BookTicket" method="post">
                     <input type="hidden" id="eventId" name="eventId" value="" />
                     <button type="submit" class="btn btn-primary">Book Ticket</button>
                 </form>
@@ -89,6 +89,10 @@
 
                 // Show the modal
                 $('#eventModal').modal('show');
+            });
+            // Hide the modal when clicking the X button or the close button
+            $('.close, .btn-secondary').on('click', function () {
+                $('#eventModal').modal('hide');
             });
         });
     </script>
