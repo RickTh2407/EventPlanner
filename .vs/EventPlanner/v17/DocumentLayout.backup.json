@@ -3,97 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\wwwroot\\css\\zephyr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:wwwroot\\css\\zephyr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\data\\eventplannerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:data\\eventplannerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3570AB57-5466-4F88-B78F-A61673F6783A}|..\\EventPlannerAPI\\EventPlannerAPI.csproj|c:\\users\\rickt\\source\\repos\\eventplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3570AB57-5466-4F88-B78F-A61673F6783A}|..\\EventPlannerAPI\\EventPlannerAPI.csproj|c:\\users\\rickt\\source\\repos\\eventplannerapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -104,12 +31,91 @@
       "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3570AB57-5466-4F88-B78F-A61673F6783A}|..\\EventPlannerAPI\\EventPlannerAPI.csproj|c:\\users\\rickt\\source\\repos\\eventplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\wwwroot\\css\\zephyr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:wwwroot\\css\\zephyr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3570AB57-5466-4F88-B78F-A61673F6783A}|..\\EventPlannerAPI\\EventPlannerAPI.csproj|c:\\users\\rickt\\source\\repos\\eventplannerapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\data\\eventplannerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:data\\eventplannerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FC88085-F0D1-4BFE-8B70-893A5C011B88}|EventPlanner.csproj|c:\\users\\rickt\\source\\repos\\eventplanner\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,8 +129,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:08:07.874Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventPlannerDB.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Data\\EventPlannerDB.cs",
+              "RelativeDocumentMoniker": "Data\\EventPlannerDB.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Data\\EventPlannerDB.cs",
+              "RelativeToolTip": "Data\\EventPlannerDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:16:41.265Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
@@ -139,125 +171,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T10:08:07.874Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EventPlannerDB.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Data\\EventPlannerDB.cs",
-              "RelativeDocumentMoniker": "Data\\EventPlannerDB.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Data\\EventPlannerDB.cs",
-              "RelativeToolTip": "Data\\EventPlannerDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Organizer.cs",
+              "RelativeDocumentMoniker": "Models\\Organizer.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Organizer.cs",
+              "RelativeToolTip": "Models\\Organizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:16:41.265Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T17:26:18.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Home.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Home.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Home.cshtml*",
-              "RelativeToolTip": "Views\\Events\\Home.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T16:06:39.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T13:03:55.309Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tickets\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Index.cshtml",
-              "RelativeToolTip": "Views\\Tickets\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T10:46:59.568Z",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:26:20.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tickets\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Tickets\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T10:46:48.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tickets\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Details.cshtml",
-              "RelativeToolTip": "Views\\Tickets\\Details.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T10:48:42.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
               "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Index.cshtml",
               "RelativeToolTip": "Views\\Events\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T10:34:50.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-09T16:36:39.939Z",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T13:13:03.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Home.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Home.cshtml",
+              "RelativeToolTip": "Views\\Events\\Home.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:06:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T13:13:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T10:32:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -270,7 +273,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:34:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Cashier.cs",
+              "RelativeDocumentMoniker": "Models\\Cashier.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Cashier.cs",
+              "RelativeToolTip": "Models\\Cashier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:26:24.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:32:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:26:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Participant.cs",
+              "RelativeToolTip": "Models\\Participant.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:26:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Zephyr.css",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\Zephyr.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Zephyr.css",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\Zephyr.css",
+              "RelativeToolTip": "wwwroot\\css\\Zephyr.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T12:53:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T13:03:55.309Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlannerAPI\\Program.cs",
               "RelativeDocumentMoniker": "..\\EventPlannerAPI\\Program.cs",
@@ -282,189 +372,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T14:34:25.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Participant.cs",
-              "RelativeDocumentMoniker": "Models\\Participant.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Participant.cs",
-              "RelativeToolTip": "Models\\Participant.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:26:16.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "Models\\Event.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Event.cs",
-              "RelativeToolTip": "Models\\Event.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:26:20.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlannerAPI\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "..\\EventPlannerAPI\\Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlannerAPI\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "..\\EventPlannerAPI\\Controllers\\TicketsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T12:57:32.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Zephyr.css",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\Zephyr.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Zephyr.css",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\Zephyr.css",
-              "RelativeToolTip": "wwwroot\\css\\Zephyr.css",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T12:53:18.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:19:12.285Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "Controllers\\EventsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:33:32.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "Controllers\\TicketsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:39:19.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:43:10.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Ticket.cs",
-              "RelativeToolTip": "Models\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:26:15.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Organizer.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Organizer.cs",
-              "RelativeDocumentMoniker": "Models\\Organizer.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Organizer.cs",
-              "RelativeToolTip": "Models\\Organizer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:26:18.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Cashier.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Cashier.cs",
-              "RelativeDocumentMoniker": "Models\\Cashier.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\Cashier.cs",
-              "RelativeToolTip": "Models\\Cashier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T17:26:24.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T13:13:03.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Details.cshtml",
-              "RelativeToolTip": "Views\\Events\\Details.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T13:13:19.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T10:32:50.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Events\\Create.cshtml",
-              "RelativeToolTip": "Views\\Events\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T14:32:52.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -476,7 +397,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\rickt\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T12:19:29.235Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwFoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T16:36:39.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:33:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlannerAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "..\\EventPlannerAPI\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlannerAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "..\\EventPlannerAPI\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:57:32.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tickets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tickets\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T10:48:42.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T10:46:48.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T10:46:59.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:39:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:43:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -488,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\EventPlanner\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",

@@ -17,18 +17,5 @@ namespace EventPlanner.Models
         public double PricePP { get; set; }
         public int MaxParticipants { get; set; }
         public int ParticipantCount { get; set; }
-
-        public void CreateEvent()
-        {
-
-        }
-        public void EditEvent()
-        {
-
-        }
-        public void DeleteEvent()
-        {
-
-        }
     }
 }

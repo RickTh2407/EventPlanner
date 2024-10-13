@@ -88,12 +88,12 @@ dd {
 }
 
 modal-header .close {
-    color: #ffffff; /* White color for the X */
-    opacity: 1; /* Full opacity for visibility */
+    color: #ffffff;
+    opacity: 1;
 }
 
 .modal-header .close:hover {
-    color: #e6e6e6; /* Slightly lighter color on hover */
+    color: #e6e6e6;
 }
 
 input, select, textarea {

@@ -13,10 +13,5 @@ namespace EventPlanner.Models
         public int EventId { get; set; }
         public int ParticipantId { get; set; }
         public bool Payed { get; set; }
-
-        public void PayTicket()
-        {
-
-        }
     }
 }
