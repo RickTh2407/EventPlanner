@@ -153,5 +153,7 @@ namespace EventPlanner.Controllers
         {
             return _context.Ticket.Any(e => e.Id == id);
         }
+
+        // 
     }
 }
